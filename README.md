@@ -23,10 +23,6 @@ Instructions
 The instructions for this activity are broken into two parts:
 
 Part 1: Create the Earthquake Visualization
-
-Part 2: Gather and Plot More Data (Optional with no extra points earning)
-
-Part 1: Create the Earthquake Visualization
 2-BasicMap
 
 Your first task is to visualize an earthquake dataset. Complete the following steps:
@@ -53,24 +49,6 @@ Create a legend that will provide context for your map data.
 
 Your visualization should look something like the preceding map.
 
-Part 2: Gather and Plot More Data (Optional with no extra points earning)
-Plot a second dataset on your map to illustrate the relationship between tectonic plates and seismic activity. You will need to pull in this dataset and visualize it alongside your original data. Data on tectonic plates can be found at https://github.com/fraxen/tectonicplatesLinks to an external site..
-
-This part is completely optional; you can complete this part as a way to challenge yourself and boost your new skills.
-
-The following image is an example screenshot of what you should produce:
-
-5-Advanced
-
-Perform the following tasks:
-
-Plot the tectonic plates dataset on the map in addition to the earthquakes.
-
-Add other base maps to choose from.
-
-Put each dataset into separate overlays that can be turned on and off independently.
-
-Add layer controls to your map.
 
 Requirements
 These requirements apply only to "Part 1: Create the Earthquake Visualization" as "Part 2" is optional with no extra points earning.
@@ -126,4 +104,4 @@ Tutoring GuidelinesLinks to an external site. - schedule a tutor session in the 
 If the above resources are not applicable and you have a need, please reach out to a member of your instructional team, your Student Success Advisor, or submit a support ticket in the Student Support section of your BCS application.
 
 References
-Dataset created by the United States Geological SurveyLinks to an external site..
+Dataset created by the United States Geological SurveyLinks to an external site. Additional help when stuck was provided by AI tools such as ChatGPT and Xpert. 
